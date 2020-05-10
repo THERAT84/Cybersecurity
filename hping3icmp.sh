@@ -15,7 +15,6 @@
 #  Special thanks to the community and also for your personal project support.                                          #
 #########################################################################################################################
 
-set -x
 
 #Asking for Targets IPs if not spezified as parameters
 if [ -z "$1" ]; then
